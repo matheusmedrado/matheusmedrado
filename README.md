@@ -4,11 +4,6 @@
   <strong>Estudante de Ciência da Computação na UFU | Backend Developer</strong>
 </p>
 
-<p align="center">
-  Transformando ideias em sistemas robustos e escaláveis.<br>
-  Explorando o equilíbrio entre performance e elegância.
-</p>
-
 ---
 
 ## 🚀 Sobre
