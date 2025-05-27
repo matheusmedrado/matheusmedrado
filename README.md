@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Matheus Medrado Ferreira</h1>
 
-<!--
-**matheusmedrado/matheusmedrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Estudante de Ciência da Computação na UFU | Backend Developer</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Transformando ideias em sistemas robustos e escaláveis.<br>
+  Explorando o equilíbrio entre performance e elegância.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre
+
+🎓 5º período de Ciência da Computação na <strong>Universidade Federal de Uberlândia</strong>  
+💻 Foco em desenvolvimento backend com <strong>Java</strong> e <strong>Spring Boot</strong>  
+🌱 Atualmente criando um app full-stack com <strong>Flutter</strong> e <strong>Spring Boot</strong>  
+🛠️ Explorador de linguagens: Python, C, Haskell, Prolog e um pouqinho de Assembly.
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50"/>
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusmedrado&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmedrado&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=matheusmedrado&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+## ✨ Projeto Atual
+
+| Projeto | Descrição |
+| --- | --- |
+| **App Full-Stack** | Backend robusto com Spring Boot, frontend mobile em Flutter. Foco em integração social e esportiva. |
+
+---
+
+## 📬 Contato
+
+<div align="center">
+  <a href="mat3medrado@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=matheusmedrado&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+## 🐍 Snake Game
+
+<div align="center">
+  <img src="https://github.com/matheusmedrado/matheusmedrado/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
