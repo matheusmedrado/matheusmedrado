@@ -38,7 +38,13 @@
 </div>
 
 ---
+## ✨ Projeto Atual
 
+| Projeto | Descrição |
+| --- | --- |
+| **App Full-Stack** | Backend robusto com Spring Boot, frontend mobile em Flutter. Foco em integração social e esportiva. |
+
+---
 ## 📊 Estatísticas
 
 <div align="center">
@@ -52,32 +58,3 @@
 
 ---
 
-## ✨ Projeto Atual
-
-| Projeto | Descrição |
-| --- | --- |
-| **App Full-Stack** | Backend robusto com Spring Boot, frontend mobile em Flutter. Foco em integração social e esportiva. |
-
----
-
-## 📬 Contato
-
-<div align="center">
-  <a href="mat3medrado@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheusmedrado&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
-
-## 🐍 Snake Game
-
-<div align="center">
-  <img src="https://github.com/matheusmedrado/matheusmedrado/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
