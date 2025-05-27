@@ -32,8 +32,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
-![Arch Linux](https://img.shields.io/badge/archlinux-%231179C1.svg?style=for-the-badge&logo=arch-linux&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/intellijidea-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/archlinux-%231179C1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 </div>
 
