@@ -47,7 +47,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheusmedrado&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmedrado&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmedrado&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 <div align="center">
