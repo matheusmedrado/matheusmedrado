@@ -44,12 +44,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=matheusmedrado&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusmedrado/matheusmedrado/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusmedrado/matheusmedrado/output/snake.svg" />
