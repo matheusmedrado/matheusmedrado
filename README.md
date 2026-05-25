@@ -9,9 +9,7 @@
 ## 🚀 Sobre
 
 🎓 5º período de Ciência da Computação na <strong>Universidade Federal de Uberlândia</strong>  
-💻 Foco em desenvolvimento backend com <strong>Java</strong> e <strong>Spring Boot</strong>  
-🌱 Atualmente criando um app full-stack com <strong>Flutter</strong> e <strong>Spring Boot</strong>  
-🛠️ Explorador de linguagens: Python, C, Haskell, Prolog e um pouqinho de Assembly.
+💻 Foco em desenvolvimento fullstack com <strong>Node.js</strong>, <strong>React</strong> e <strong>Go<strong/>
 
 ---
 
@@ -27,20 +25,12 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![Arch Linux](https://img.shields.io/badge/archlinux-%231179C1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
 
 </div>
-
----
-## ✨ Projeto Atual
-
-| Projeto | Descrição |
-| --- | --- |
-| **App Full-Stack** | Backend robusto com Spring Boot, frontend mobile em Flutter. Foco em integração social e esportiva. |
 
 ---
 
