@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Matheus Medrado 👋</h1>
+<h1 align="center">Hey, I'm Matheus Medrado</h1>
 
 <p align="center">
   <strong>Computer Science @ UFU | Backend & Systems Developer</strong>
@@ -12,18 +12,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 5th semester Computer Science student at **Universidade Federal de Uberlândia (UFU)**
-- 💻 I build backend systems and enjoy working across the full stack
-- 🐧 Daily Arch Linux + Hyprland user
-- 🔭 Currently exploring **Go** and distributed systems
-- 🦀 Building **lazyfix** — a TUI app for invoice reconciliation built with **Rust** + **Ratatui**
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-medrado-ferreira-14bb303aa/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmedradoferreira@gmail.com)
+> 5th semester Computer Science student at **Universidade Federal de Uberlandia (UFU)**
+
+> I build backend systems and enjoy working across the full stack
+
+> Daily Arch Linux + Hyprland user
+
+> Currently exploring **Go** and distributed systems
+
+> Building **lazyfix** -- a TUI app for invoice reconciliation built with **Rust** + **Ratatui**
+
+> How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-medrado-ferreira-14bb303aa/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmedradoferreira@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -47,22 +52,21 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![Matheus's GitHub stats](https://github-stats-extended.vercel.app/api?username=matheusmedrado&show_icons=true&theme=tokyonight&hide_border=true)
+![Matheus's GitHub stats](https://github-stats-extended.vercel.app/api?username=matheusmedrado&show_icons=true&theme=tokyonight&hide_border=true&start_date=2026-01-01)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=matheusmedrado&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=matheusmedrado&layout=compact&theme=tokyonight&hide_border=true&start_date=2026-01-01)
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=matheusmedrado&type=png&theme=tokyonight&hide_border=true" alt="matheusmedrado" />
+  <img src="https://github-stats-extended.vercel.app/api?username=matheusmedrado&type=png&theme=tokyonight&hide_border=true&start_date=2026-01-01" alt="matheusmedrado" />
 </p>
