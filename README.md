@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-medrado-ferreira-14bb303aa/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusmedradoferreira@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=matheusmedrado&label=Profile%20Views&color=58A6FF&style=flat-square)](https://github.com/matheusmedrado)
 
 </div>
 
