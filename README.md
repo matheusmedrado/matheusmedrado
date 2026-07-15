@@ -16,7 +16,7 @@
 
 Computer Science student at **Universidade Federal de Uberlandia (UFU)** and full-stack developer based in **Uberlandia, Brazil**. I work day-to-day building and maintaining production web applications with **TypeScript**, **Node.js**, and **React**. On the data side, I manage **PostgreSQL** databases — schema design, migrations, query optimization, and routine adjustments.
 
-Outside of work, I'm building **lazyfix** — a TUI invoice reconciliation tool written in **Rust** with **Ratatui**. It's a hands-on way to explore systems programming, terminal UI design, and practical performance patterns.
+Alongside web development, I'm building **lazyfix** — a TUI invoice reconciliation tool written in **Rust** with **Ratatui**. It combines systems programming, terminal UI design, and practical performance patterns.
 
 ---
 
