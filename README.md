@@ -2,7 +2,7 @@
 
 # Matheus Medrado
 
-**Backend & Systems Developer** · **Computer Science @ UFU**
+**Full-Stack Developer** · **Computer Science @ UFU**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-medrado-ferreira-14bb303aa/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusmedradoferreira@gmail.com)
@@ -15,13 +15,14 @@
 ```yaml
 name: Matheus Medrado
 location: Uberlândia, Brazil
-education: Computer Science @ UFU (5th semester)
-focus: Backend systems, distributed computing
+education: Computer Science @ UFU
+role: Full-Stack Developer
+stack: TypeScript, Node.js, React, Rust, PostgreSQL
 wm: Hyprland
 os: Arch Linux
 ```
 
-Currently exploring **Go** and distributed systems. Building **lazyfix** — a TUI invoice reconciliation tool powered by **Rust** and **Ratatui**.
+Currently building **lazyfix** — a TUI invoice reconciliation tool in **Rust** with **Ratatui** — while working full-stack on **TypeScript**/**Node.js**/**React** applications and managing **PostgreSQL** databases day-to-day.
 
 ---
 
@@ -45,18 +46,3 @@ Currently exploring **Go** and distributed systems. Building **lazyfix** — a T
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
----
-
-## Featured Project
-
-### lazyfix
-
-TUI-based invoice reconciliation — terminal-native, keyboard-driven, and built for daily workflow efficiency.
-
-**Stack:** Rust, Ratatui
-
----
-
-## 2026 Contributions
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusmedrado&theme=tokyonight&hide_border=true&area=true&height=300)
