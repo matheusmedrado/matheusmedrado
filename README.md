@@ -1,4 +1,4 @@
-# Matheus Medrado Ferreira
+<img src="assets/banner.png" alt="Matheus Medrado Ferreira, software developer" width="100%">
 
 **Software developer.** Computer Science at the Universidade Federal de
 Uberlândia, final year. Based in Uberlândia, Brazil.
@@ -36,6 +36,25 @@ Plus the usual sediment of a Computer Science degree: assembly, C, Haskell, Java
 
 ---
 
+### Desk
+
+```
+matheus@omarchy
+───────────────────────────────────────
+os        Arch Linux
+desktop   Omarchy 4.0 · Hyprland 0.56
+theme     Osaka Jade
+terminal  Ghostty · bash
+editor    Neovim
+machine   Ryzen 7 5825U · 16 GB
+also      macOS, for the work that needs it
+```
+
+The banner above is a dot-matrix panel drawn in the same palette, because the
+desktop and the profile may as well agree.
+
+---
+
 ### Tools
 
 **Languages** ![Rust](https://img.shields.io/badge/Rust-24292f?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-24292f?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-24292f?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-24292f?style=flat-square&logo=openjdk&logoColor=white)
@@ -43,10 +62,6 @@ Plus the usual sediment of a Computer Science degree: assembly, C, Haskell, Java
 **Frameworks** ![Node.js](https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white) ![Django](https://img.shields.io/badge/Django-24292f?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-24292f?style=flat-square&logo=springboot&logoColor=white) ![ratatui](https://img.shields.io/badge/ratatui-24292f?style=flat-square&logo=ratatui&logoColor=white) ![QML](https://img.shields.io/badge/QML-24292f?style=flat-square&logo=qt&logoColor=white)
 
 **Data** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-24292f?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)
-
-**Desk** ![Arch Linux](https://img.shields.io/badge/Arch_Linux-24292f?style=flat-square&logo=archlinux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-24292f?style=flat-square&logo=hyprland&logoColor=white) ![Omarchy](https://img.shields.io/badge/Omarchy-24292f?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-24292f?style=flat-square&logo=apple&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-24292f?style=flat-square&logo=neovim&logoColor=white)
-
-Arch Linux with Hyprland and Omarchy on one machine, macOS on the other.
 
 ---
 
