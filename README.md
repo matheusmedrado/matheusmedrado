@@ -1,15 +1,14 @@
 # Matheus Medrado Ferreira
 
-> Software that respects the machine it runs on, and interfaces that show you
-> the whole state at once instead of hiding it three menus deep.
-
-Computer Science at the Universidade Federal de Uberlândia, final year.
-Uberlândia, Brazil.
+**Software developer.** Computer Science at the Universidade Federal de
+Uberlândia, final year. Based in Uberlândia, Brazil.
 
 Production web software by day, for insurance and financial operations:
 TypeScript and Node on the application side, Python where the data lives,
 PostgreSQL underneath all of it. Terminal tools and small, opinionated pieces
-of a Linux desktop by night, usually in Rust.
+of a Linux desktop by night, usually in Rust. I like software that respects the
+machine it runs on, and interfaces that show the whole state at once instead of
+hiding it three menus deep.
 
 ---
 
