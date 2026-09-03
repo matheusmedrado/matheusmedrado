@@ -1,60 +1,55 @@
-<div align="center">
-
 # Matheus Medrado Ferreira
 
-**Full-Stack Developer · Computer Science @ UFU**
+> Software that respects the machine it runs on, and interfaces that show you
+> the whole state at once instead of hiding it three menus deep.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-medrado-ferreira-14bb303aa/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusmedradoferreira@gmail.com)
+Computer Science at the Universidade Federal de Uberlândia, final year.
+Uberlândia, Brazil.
 
-</div>
-
----
-
-## About
-
-Computer Science student at **Universidade Federal de Uberlandia (UFU)** and full-stack developer based in **Uberlandia, Brazil**. I work day-to-day building and maintaining production web applications with **TypeScript**, **Node.js**, and **React**. On the data side, I manage **PostgreSQL** databases — schema design, migrations, query optimization, and routine adjustments.
-
-Alongside web development, I'm building **lazyfix** — a TUI invoice reconciliation tool written in **Rust** with **Ratatui**. It combines systems programming, terminal UI design, and practical performance patterns.
+Production web software by day, for insurance and financial operations:
+TypeScript and Node on the application side, Python where the data lives,
+PostgreSQL underneath all of it. Terminal tools and small, opinionated pieces
+of a Linux desktop by night, usually in Rust.
 
 ---
 
-## Tech Stack
+### Building
 
-### Languages
+| | | |
+|---|---|---|
+| [**MarkR**](https://github.com/matheusmedrado/markr) | Rust, ratatui | A terminal-first Markdown workspace, built on The Elm Architecture from the first line |
+| [**OmaDock**](https://github.com/matheusmedrado/omadock) | QML, Quickshell | A terminal-inspired dock for Hyprland: dot-matrix glyphs on ordered dither, hiding until you reach for it |
+| **omaNuphy** | Python, USB HID | NuPhy keyboard lighting that follows the Omarchy theme, protocol reverse-engineered on hardware |
+| **BCC** | Kotlin, Android | The Kindle Comic Converter pipeline, moved onto the e-ink device where comics are actually read |
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-### Frameworks & Libraries
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Ratatui](https://img.shields.io/badge/Ratatui-000000?style=flat-square&logo=ratatui&logoColor=white)
-
-### Databases & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+*MarkR is developed as an Iniciação Científica research project at UFU.*
 
 ---
 
-```yaml
-name: Matheus Medrado Ferreira
-location: Uberlandia, Brazil
-education: Computer Science @ Universidade Federal de Uberlandia (UFU)
-role: Full-Stack Developer
-stack: TypeScript, Node.js, React, Rust, PostgreSQL, Java, Spring Boot, Python, Django, Pandas
-wm: Hyprland
-os: Arch Linux
-```
+### Elsewhere
+
+| | | |
+|---|---|---|
+| [**yomi**](https://github.com/matheusmedrado/yomi) | Python, OpenCV | A manga reader with instant OCR for Japanese immersion. Read, hover, learn |
+| [**typescript**](https://github.com/matheusmedrado/typescript) | TypeScript | NeetCode worked through slowly, kept clean on purpose |
+
+Plus the usual sediment of a Computer Science degree: assembly, C, Haskell, Java.
+
+---
+
+### Tools
+
+**Languages** ![Rust](https://img.shields.io/badge/Rust-24292f?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-24292f?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-24292f?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-24292f?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frameworks** ![Node.js](https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white) ![Django](https://img.shields.io/badge/Django-24292f?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-24292f?style=flat-square&logo=springboot&logoColor=white) ![ratatui](https://img.shields.io/badge/ratatui-24292f?style=flat-square&logo=ratatui&logoColor=white) ![QML](https://img.shields.io/badge/QML-24292f?style=flat-square&logo=qt&logoColor=white)
+
+**Data** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-24292f?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)
+
+**Desk** ![Arch Linux](https://img.shields.io/badge/Arch_Linux-24292f?style=flat-square&logo=archlinux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-24292f?style=flat-square&logo=hyprland&logoColor=white) ![Omarchy](https://img.shields.io/badge/Omarchy-24292f?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-24292f?style=flat-square&logo=apple&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-24292f?style=flat-square&logo=neovim&logoColor=white)
+
+Arch Linux with Hyprland and Omarchy on one machine, macOS on the other.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/matheus-medrado-ferreira-14bb303aa/) ·
+[matheusmedradoferreira@gmail.com](mailto:matheusmedradoferreira@gmail.com)
