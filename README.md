@@ -18,6 +18,7 @@ hiding it three menus deep.
 |---|---|---|
 | [**MarkR**](https://github.com/matheusmedrado/markr) | Rust, ratatui | A terminal-first Markdown workspace, built on The Elm Architecture from the first line |
 | [**OmaDock**](https://github.com/matheusmedrado/omadock) | QML, Quickshell | A terminal-inspired dock for Hyprland: dot-matrix glyphs on ordered dither, hiding until you reach for it |
+| [**JSONarchy**](https://github.com/matheusmedrado/JSONarchy) | QML, Quickshell | A cool little plugin i made with claude to make JSON Crack for the Omarchy shell |
 | **omaNuphy** | Python, USB HID | NuPhy keyboard lighting that follows the Omarchy theme, protocol reverse-engineered on hardware |
 | **BCC** | Kotlin, Android | The Kindle Comic Converter pipeline, moved onto the e-ink device where comics are actually read |
 
