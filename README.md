@@ -43,11 +43,11 @@ matheus@omarchy
 ───────────────────────────────────────
 os        Arch Linux
 desktop   Omarchy 4.0 · Hyprland 0.56
-theme     Osaka Jade
+theme     Solitude Ember
 terminal  Ghostty · bash
 editor    Neovim
-machine   Ryzen 7 5825U · 16 GB
-also      macOS, for the work that needs it
+machine   Ryzen 7 9800X3D · 32 GB · RTX 4070
+also      Macbook air M4 · 24gb, for the work that needs it
 ```
 
 The banner above is a dot-matrix panel drawn in the same palette, because the
