@@ -50,9 +50,6 @@ machine   Ryzen 7 9800X3D · 32 GB · RTX 4070
 also      Macbook air M4 · 24gb, for the work that needs it
 ```
 
-The banner above is a dot-matrix panel drawn in the same palette, because the
-desktop and the profile may as well agree.
-
 ---
 
 ### Tools
